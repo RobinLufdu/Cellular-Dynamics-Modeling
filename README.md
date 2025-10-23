@@ -76,5 +76,10 @@ Other Works based on SDEs.
 
 ## Other Works
 - [x] [[Generative modeling of single-cell time series with PRESCIENT enables prediction of cell trajectories with interventions]](https://www.nature.com/articles/s41467-021-23518-w)
-- [x] [[Inferring population dynamics from single-cell RNA-sequencing time series data]](www.nature.com/articles/s41587-019-0088-0) 
+- [x] [[Inferring population dynamics from single-cell RNA-sequencing time series data]](www.nature.com/articles/s41587-019-0088-0)
+- [x] [[Dissecting transition cells from single-cell transcriptome data through multiscale stochastic dynamics]](https://www.nature.com/articles/s41467-021-25548-w)
+- [x] [[Learning single-cell perturbation responses using neural optimal transport]](https://www.nature.com/articles/s41592-023-01969-x)
+- [x] [[Deep generative modeling of transcriptional dynamics for RNA velocity analysis in single cells]](https://www.nature.com/articles/s41592-023-01994-w)
+- [x] [[Learning Geometric Models for Developmental Dynamics]](https://journals.aps.org/prx/abstract/10.1103/8vpj-bj7d)
+- [x] [[Spatial transition tensor of single cells]](https://www.nature.com/articles/s41592-024-02266-x)   
 
