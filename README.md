@@ -22,6 +22,9 @@ Optimal control perspective of OT and SBP; SBP as entropy regularised OT.
 - [x] [[An optimal control perspective on diffusion-based generative modeling]](https://arxiv.org/abs/2211.01364)
 
 ## Week 3
+
+
+## Week 4
 Unbalanced dynamic optimal transport.
 ### Main Reference
 - [x] [[Unbalanced Optimal Transport, from Theory to Numerics]](https://arxiv.org/abs/2211.08775)
@@ -33,4 +36,8 @@ Unbalanced dynamic optimal transport.
 - [x] [[Regularized unbalanced optimal transport as entropy minimization with respect to branching Brownian motion]](https://arxiv.org/abs/2111.01666)  
 
 
+## Week 5, 6
+Application of unbalanced optimal transport in modeling cellular population dynamics (with explict growth term considered). (contribution mainly form [[Peijie Zhou's group]](https://cliffzhou92.github.io/))
+### Reference
+- [x] [[Learning stochastic dynamics from snapshots through regularized unbalanced optimal transport]](https://arxiv.org/abs/2410.00844) [[Project Page]](https://github.com/zhenyiizhang/DeepRUOT) [[ICLR2025 oral]](https://iclr.cc/media/iclr-2025/Slides/31800_i2NXVyQ.pdf)
 
