@@ -39,6 +39,11 @@ Unbalanced dynamic optimal transport.
 ## Week 5, 6
 Application of unbalanced optimal transport in modeling cellular population dynamics (with explict growth term considered). (contribution mainly form [[Peijie Zhou's group]](https://cliffzhou92.github.io/))
 ### Reference
-- [x] [[TIGON(Nature Machine Intelligence 2023)]](https://www.nature.com/articles/s42256-023-00763-w) [[Project page]](https://github.com/yutongo/TIGON)
+- [x] [[TIGON (Nature Machine Intelligence 2023)]](https://www.nature.com/articles/s42256-023-00763-w) [[Project page]](https://github.com/yutongo/TIGON)
 - [x] [[DeepRUOT (ICLR25 Oral)]](https://arxiv.org/abs/2410.00844) [[Project Page]](https://github.com/zhenyiizhang/DeepRUOT) [[ICLR2025 oral]](https://iclr.cc/media/iclr-2025/Slides/31800_i2NXVyQ.pdf)
+- [x] [[VGFM (Neurips25)]](https://arxiv.org/abs/2505.13413)
+- [x] [[]](https://www.mdpi.com/1099-4300/27/5/453) 
+
+### Related Codes
+[[DeepRUOT]](https://github.com/zhenyiizhang/DeepRUOT); [[DeepRUOTv2]](https://github.com/zhenyiizhang/DeepRUOTv2); [[A Toolkit for Single Cell Spatiotemporal Dynamical Generative Modeling]](https://github.com/zhenyiizhang/CytoBridge), also see the references within.
 
