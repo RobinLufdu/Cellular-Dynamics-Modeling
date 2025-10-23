@@ -42,9 +42,12 @@ Application of unbalanced optimal transport in modeling cellular population dyna
 ### Reference
 - [x] [[TIGON (Nature Machine Intelligence 2023)]](https://www.nature.com/articles/s42256-023-00763-w) [[Project page]](https://github.com/yutongo/TIGON)
 - [x] [[DeepRUOT (ICLR25 Oral)]](https://arxiv.org/abs/2410.00844) [[Project Page]](https://github.com/zhenyiizhang/DeepRUOT) [[ICLR2025 oral]](https://iclr.cc/media/iclr-2025/Slides/31800_i2NXVyQ.pdf)
-- [x] [[VGFM (Neurips25)]](https://arxiv.org/abs/2505.13413)
+- [x] [[VGFM (Neurips25)]](https://arxiv.org/abs/2505.13413), based on flow matching
 - [x] [[Single Cell Spatiotemporal Dynamical Generative Modeling (review work)]](https://www.mdpi.com/1099-4300/27/5/453) 
 
 ### Related Codes
 [[DeepRUOT]](https://github.com/zhenyiizhang/DeepRUOT); [[DeepRUOTv2]](https://github.com/zhenyiizhang/DeepRUOTv2); [[A Toolkit for Single Cell Spatiotemporal Dynamical Generative Modeling]](https://github.com/zhenyiizhang/CytoBridge), also see the references within.
+
+### Related Works
+- [x] [[Unbalanced Diffusion Schrödinger Bridge]](https://arxiv.org/abs/2306.09099)
 
