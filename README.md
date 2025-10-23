@@ -1,5 +1,6 @@
 # Cellular-Dynamics-Modeling
 (unbalanced) optimal transport,  Schrödinger bridge problem, and its application in single-cell development dynamics modeling
+### Fundamental Limits [[Fundamental limits on dynamic inference from single-cell snapshots]](https://www.pnas.org/doi/10.1073/pnas.1714723115)
 
 ## Week 1
 Preliminaries on optimal transport, Schrödinger bridge problem (SBP) and its related dynamics formulations.
@@ -57,6 +58,10 @@ RNA velocity and its generalizations.
 - [x] [[RNA velocity of single cells]](https://www.nature.com/articles/s41586-018-0414-6)
 - [x] [[Generalizing RNA velocity to transient cell states through dynamical modeling]](https://www.nature.com/articles/s41587-020-0591-3)
 
+### Related Works
+- [x] [[Mathematical Foundation]](https://www.biorxiv.org/content/10.1101/2020.09.19.304584v1)
+- [x] [[Algorithmic Aspects]](https://arxiv.org/abs/2306.05707) 
+
 ### Tookits [[scVelo]](https://scvelo.readthedocs.io/en/stable/index.html)
 
 ## Week 8
@@ -64,9 +69,12 @@ Methods for modeling cell fate decision probabilities.
 - [x] [[CellRank for directed single-cell fate mapping]](https://www.nature.com/articles/s41592-021-01346-6)
 - [x] [[CellRank 2: unified fate mapping in multiview single-cell data]](https://www.nature.com/articles/s41592-024-02303-9)
 
-## Other Works
-
-
+## Week 9
+Other Works based on SDEs.
 - [x] [[PhyloVelo enhances transcriptomic velocity field mapping using monotonically expressed genes]](https://www.nature.com/articles/s41587-023-01887-5)
 - [x] [[Multivariate stochastic modeling for transcriptional dynamics with cell-specific latent time using SDEvelo]](https://www.nature.com/articles/s41467-024-55146-5.pdf)
+
+## Other Works
+- [x] [[Generative modeling of single-cell time series with PRESCIENT enables prediction of cell trajectories with interventions]](https://www.nature.com/articles/s41467-021-23518-w)
+- [x] [[Inferring population dynamics from single-cell RNA-sequencing time series data]](www.nature.com/articles/s41587-019-0088-0) 
 
