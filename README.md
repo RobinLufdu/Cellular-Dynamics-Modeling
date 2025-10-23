@@ -23,7 +23,12 @@ Optimal control perspective of OT and SBP; SBP as entropy regularised OT.
 - [x] [[An optimal control perspective on diffusion-based generative modeling]](https://arxiv.org/abs/2211.01364)
 
 ## Week 3
+Discuss works for learning stochastic dynamics from samples (refer to as `'trjactory inference").
+- [x] [[Action Matching]](https://openreview.net/pdf?id=E3BW8pG64Y)
+- [x] [[TrajectoryNet]](https://arxiv.org/abs/2002.04461)
+- [x] [[NLSB]](https://arxiv.org/abs/2204.04853)
 
+### Mathematical Theories [[Trajectory Inference]]()
 
 ## Week 4
 Unbalanced dynamic optimal transport.
@@ -81,5 +86,8 @@ Other Works based on SDEs.
 - [x] [[Learning single-cell perturbation responses using neural optimal transport]](https://www.nature.com/articles/s41592-023-01969-x)
 - [x] [[Deep generative modeling of transcriptional dynamics for RNA velocity analysis in single cells]](https://www.nature.com/articles/s41592-023-01994-w)
 - [x] [[Learning Geometric Models for Developmental Dynamics]](https://journals.aps.org/prx/abstract/10.1103/8vpj-bj7d)
-- [x] [[Spatial transition tensor of single cells]](https://www.nature.com/articles/s41592-024-02266-x)   
+- [x] [[Spatial transition tensor of single cells]](https://www.nature.com/articles/s41592-024-02266-x)
+- [x] [[Learning stochastic processes with intrinsic noise from cross-sectional biological data]](https://www.pnas.org/doi/10.1073/pnas.2420621122)
 
+## Prospect (Unfinished)
+Introduce memory effects.
