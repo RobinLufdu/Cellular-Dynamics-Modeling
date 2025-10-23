@@ -23,12 +23,12 @@ Optimal control perspective of OT and SBP; SBP as entropy regularised OT.
 - [x] [[An optimal control perspective on diffusion-based generative modeling]](https://arxiv.org/abs/2211.01364)
 
 ## Week 3
-Discuss works for learning stochastic dynamics from samples (refer to as \bf{trjactory inference}).
+Discuss works for learning stochastic dynamics from samples (refer to as {trjactory inference}).
 - [x] [[Action Matching]](https://openreview.net/pdf?id=E3BW8pG64Y)
 - [x] [[TrajectoryNet]](https://arxiv.org/abs/2002.04461)
 - [x] [[NLSB]](https://arxiv.org/abs/2204.04853)
 
-### Mathematical Theories [[Trajectory Inference]]()
+### Mathematical Theories [[Trajectory Inference]](https://arxiv.org/abs/2102.09204)
 
 ## Week 4
 Unbalanced dynamic optimal transport.
