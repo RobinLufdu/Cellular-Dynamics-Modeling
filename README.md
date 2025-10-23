@@ -50,4 +50,23 @@ Application of unbalanced optimal transport in modeling cellular population dyna
 
 ### Related Works
 - [x] [[Unbalanced Diffusion Schrödinger Bridge]](https://arxiv.org/abs/2306.09099)
+- [x] [[Modeling Cell Dynamics and Interactions with Unbalanced Mean Field Schrödinger Bridge]](https://arxiv.org/pdf/2505.11197)
+
+## Week 7
+RNA velocity and its generalizations.
+- [x] [[RNA velocity of single cells]](https://www.nature.com/articles/s41586-018-0414-6)
+- [x] [[Generalizing RNA velocity to transient cell states through dynamical modeling]](https://www.nature.com/articles/s41587-020-0591-3)
+
+### Tookits [[scVelo]](https://scvelo.readthedocs.io/en/stable/index.html)
+
+## Week 8
+Methods for modeling cell fate decision probabilities.
+- [x] [[CellRank for directed single-cell fate mapping]](https://www.nature.com/articles/s41592-021-01346-6)
+- [x] [[CellRank 2: unified fate mapping in multiview single-cell data]](https://www.nature.com/articles/s41592-024-02303-9)
+
+## Other Works
+
+
+- [x] [[PhyloVelo enhances transcriptomic velocity field mapping using monotonically expressed genes]](https://www.nature.com/articles/s41587-023-01887-5)
+- [x] [[Multivariate stochastic modeling for transcriptional dynamics with cell-specific latent time using SDEvelo]](https://www.nature.com/articles/s41467-024-55146-5.pdf)
 
