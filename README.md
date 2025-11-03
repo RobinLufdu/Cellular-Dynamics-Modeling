@@ -25,9 +25,14 @@ Optimal control perspective of OT and SBP; SBP as entropy regularised OT.
 
 ## Week 3
 Discuss works for learning stochastic dynamics from samples (refer to as {trjactory inference}).
-- [x] [[Action Matching]](https://openreview.net/pdf?id=E3BW8pG64Y)
+### Main Reference
 - [x] [[TrajectoryNet]](https://arxiv.org/abs/2002.04461)
 - [x] [[NLSB]](https://arxiv.org/abs/2204.04853)
+- [x] [[PNAS25]](https://www.pnas.org/doi/epdf/10.1073/pnas.2420621122)
+
+
+### Related Reference
+- [x] [[Action Matching]](https://openreview.net/pdf?id=E3BW8pG64Y)
 
 ### Mathematical Theories [[Trajectory Inference]](https://arxiv.org/abs/2102.09204)
 
