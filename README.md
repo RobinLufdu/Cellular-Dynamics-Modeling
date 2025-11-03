@@ -1,6 +1,7 @@
 # Cellular-Dynamics-Modeling
 (unbalanced) optimal transport,  Schrödinger bridge problem, and its application in single-cell development dynamics modeling
 ### Fundamental Limits [[Fundamental limits on dynamic inference from single-cell snapshots]](https://www.pnas.org/doi/10.1073/pnas.1714723115)
+### Tutorial for Diffusion Models [[The Principles of Diffusion Models]](https://github.com/RobinLufdu/Cellular-Dynamics-Modeling/blob/main/Lai%20et%20al.%20-%202025%20-%20The%20Principles%20of%20Diffusion%20Models.pdf)
 
 ## Week 1
 Preliminaries on optimal transport, Schrödinger bridge problem (SBP) and its related dynamics formulations.
