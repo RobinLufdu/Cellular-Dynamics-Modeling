@@ -68,6 +68,7 @@ Application of unbalanced optimal transport in modeling cellular population dyna
 RNA velocity and its generalizations.
 - [x] [[RNA velocity of single cells]](https://www.nature.com/articles/s41586-018-0414-6)
 - [x] [[Generalizing RNA velocity to transient cell states through dynamical modeling]](https://www.nature.com/articles/s41587-020-0591-3)
+- [x] [[Mapping transcriptomic vector fields of single cells]](https://www.cell.com/cell/fulltext/S0092-8674(21)01577-4) (optional)
 
 ### Related Works
 - [x] [[Mathematical Foundation]](https://www.biorxiv.org/content/10.1101/2020.09.19.304584v1)
