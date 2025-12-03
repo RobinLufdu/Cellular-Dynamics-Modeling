@@ -65,8 +65,9 @@ Application of unbalanced optimal transport in modeling cellular population dyna
 ### Related Works
 - [x] [[Unbalanced Diffusion Schrödinger Bridge]](https://arxiv.org/abs/2306.09099)
 - [x] [[Modeling Cell Dynamics and Interactions with Unbalanced Mean Field Schrödinger Bridge]](https://arxiv.org/pdf/2505.11197)
-
-* learning 
+#### Learning stochastic dynmaics via score and flow matching (a generalization of the flow matching techinque)
+* [[Simulation-Free Schrödinger Bridges via Score and Flow Matching]](https://arxiv.org/abs/2307.03672)
+* [[SFM for non-equilibrium diffusions]](https://arxiv.org/abs/2505.16644)
 
 ## Week 7
 RNA velocity and its generalizations.
@@ -99,6 +100,7 @@ Other Works based on SDEs.
 - [x] [[Learning Geometric Models for Developmental Dynamics]](https://journals.aps.org/prx/abstract/10.1103/8vpj-bj7d)
 - [x] [[Spatial transition tensor of single cells]](https://www.nature.com/articles/s41592-024-02266-x)
 - [x] [[Learning stochastic processes with intrinsic noise from cross-sectional biological data]](https://www.pnas.org/doi/10.1073/pnas.2420621122)
+- [x] [[Cellflow]](https://www.biorxiv.org/content/10.1101/2025.04.11.648220v1) [[Project Page]](https://github.com/theislab/CellFlow) 
 
 ## Prospect (Unfinished)
 Introduce memory effects.
