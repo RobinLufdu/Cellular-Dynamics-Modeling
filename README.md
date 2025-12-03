@@ -56,6 +56,7 @@ Application of unbalanced optimal transport in modeling cellular population dyna
 - [x] [[TIGON (Nature Machine Intelligence 2023)]](https://www.nature.com/articles/s42256-023-00763-w) [[Project page]](https://github.com/yutongo/TIGON)
 - [x] [[DeepRUOT (ICLR25 Oral)]](https://arxiv.org/abs/2410.00844) [[Project Page]](https://github.com/zhenyiizhang/DeepRUOT) [[ICLR2025 oral]](https://iclr.cc/media/iclr-2025/Slides/31800_i2NXVyQ.pdf)
 - [x] [[VGFM (Neurips25)]](https://arxiv.org/abs/2505.13413), based on flow matching
+- [x] [[Variational RUOT (Neurips25)]](https://arxiv.org/abs/2505.11823) [[Openreview]](https://openreview.net/forum?id=Iguyg0LULD) 
 - [x] [[Single Cell Spatiotemporal Dynamical Generative Modeling (review work)]](https://www.mdpi.com/1099-4300/27/5/453) 
 
 ### Related Codes
@@ -64,6 +65,8 @@ Application of unbalanced optimal transport in modeling cellular population dyna
 ### Related Works
 - [x] [[Unbalanced Diffusion Schrödinger Bridge]](https://arxiv.org/abs/2306.09099)
 - [x] [[Modeling Cell Dynamics and Interactions with Unbalanced Mean Field Schrödinger Bridge]](https://arxiv.org/pdf/2505.11197)
+
+* learning 
 
 ## Week 7
 RNA velocity and its generalizations.
