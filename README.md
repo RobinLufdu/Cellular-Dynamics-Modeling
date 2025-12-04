@@ -37,7 +37,16 @@ Discuss works for learning stochastic dynamics from samples (refer to as {trjact
 
 ### Mathematical Theories [[Trajectory Inference]](https://arxiv.org/abs/2102.09204)
 
+
 ## Week 4
+Learning stochastic dynmaics via score and flow matching (a generalization of the flow matching techinque)
+- [x] [[Simulation-Free Schrödinger Bridges via Score and Flow Matching]](https://arxiv.org/abs/2307.03672)
+- [x] [[SFM for non-equilibrium diffusions]](https://arxiv.org/abs/2505.16644)
+- [x] [[Curly flow matching for non-gradient dynamics]](https://openreview.net/forum?id=7cqKVDgFZQ)
+
+
+
+## Week 5
 Unbalanced dynamic optimal transport.
 ### Main Reference
 - [x] [[Unbalanced Optimal Transport, from Theory to Numerics]](https://arxiv.org/abs/2211.08775)
@@ -49,7 +58,7 @@ Unbalanced dynamic optimal transport.
 - [x] [[Regularized unbalanced optimal transport as entropy minimization with respect to branching Brownian motion]](https://arxiv.org/abs/2111.01666)  
 
 
-## Week 5, 6
+## Week 6, 7
 Application of unbalanced optimal transport in modeling cellular population dynamics (with explict growth term considered). (contribution mainly form [[Peijie Zhou's group]](https://cliffzhou92.github.io/))
 
 ### Reference
@@ -69,7 +78,7 @@ Application of unbalanced optimal transport in modeling cellular population dyna
 * [[Simulation-Free Schrödinger Bridges via Score and Flow Matching]](https://arxiv.org/abs/2307.03672)
 * [[SFM for non-equilibrium diffusions]](https://arxiv.org/abs/2505.16644)
 
-## Week 7
+## Week 8
 RNA velocity and its generalizations.
 - [x] [[RNA velocity of single cells]](https://www.nature.com/articles/s41586-018-0414-6)
 - [x] [[Generalizing RNA velocity to transient cell states through dynamical modeling]](https://www.nature.com/articles/s41587-020-0591-3)
@@ -81,12 +90,12 @@ RNA velocity and its generalizations.
 
 ### Tookits [[scVelo]](https://scvelo.readthedocs.io/en/stable/index.html)
 
-## Week 8
+## Week 9
 Methods for modeling cell fate decision probabilities.
 - [x] [[CellRank for directed single-cell fate mapping]](https://www.nature.com/articles/s41592-021-01346-6)
 - [x] [[CellRank 2: unified fate mapping in multiview single-cell data]](https://www.nature.com/articles/s41592-024-02303-9)
 
-## Week 9
+## Week 10
 Other Works based on SDEs.
 - [x] [[PhyloVelo enhances transcriptomic velocity field mapping using monotonically expressed genes]](https://www.nature.com/articles/s41587-023-01887-5)
 - [x] [[Multivariate stochastic modeling for transcriptional dynamics with cell-specific latent time using SDEvelo]](https://www.nature.com/articles/s41467-024-55146-5.pdf)
