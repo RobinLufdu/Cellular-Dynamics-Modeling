@@ -105,6 +105,8 @@ Other Works based on SDEs.
 
 ## Week 1
 - [x] [[CellStream: Dynamical Optimal Transport Informed Embeddings for Reconstructing Cellular Trajectories from Snapshots Data]](https://arxiv.org/abs/2511.13786)  [[Project page]](https://github.com/PQ-Zhang/CellStream)
+- [x] [[MIOFlow]](https://arxiv.org/pdf/2206.14928)
+- [ ] 
 
 
 ## Other Works
