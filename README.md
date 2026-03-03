@@ -104,16 +104,45 @@ Other Works based on SDEs.
 # New semester
 
 ## Week 1
+Learning single cell dynamics in the latent space
 - [x] [[CellStream: Dynamical Optimal Transport Informed Embeddings for Reconstructing Cellular Trajectories from Snapshots Data]](https://arxiv.org/abs/2511.13786)  [[Project page]](https://github.com/PQ-Zhang/CellStream)
 - [x] [[MIOFlow]](https://arxiv.org/pdf/2206.14928)
-- [ ] 
+- [x] [[DeepVelo]](https://www.science.org/doi/10.1126/sciadv.abq3745) [[Project page]](https://github.com/bowang-lab/DeepVelo)
+### Related Works
+- [x] [[VeloViz: RNA velocity-informed embeddings for visualizing cellular trajectories]](https://academic.oup.com/bioinformatics/article/38/2/391/6368063)
+
+## Week 2
+Learning single cell responses under perturbation.
+
+Interpretation, extrapolation and perturbation of single cells
+
+- [x] [[Generative modeling of single-cell time series with PRESCIENT enables prediction of cell trajectories with interventions]](https://www.nature.com/articles/s41467-021-23518-w)
+- [x] [[Learning single-cell perturbation responses using neural optimal transport]](https://www.nature.com/articles/s41592-023-01969-x)
+- [x] [[MIOFlow]](https://arxiv.org/pdf/2206.14928)
+- [x] [[MIOFlow]](https://arxiv.org/pdf/2206.14928)
+
+## Week 3
+Learning single cell responses under perturbation.
+
+- [x] [[Doloris]](https://openreview.net/forum?id=rvpDHfoTd2)
+- [x] [[MixFlow]](https://arxiv.org/html/2601.11827v2)
+- [x] [[scDFM: Distributional Flow Matching Model for Robust Single-Cell Perturbation Prediction]](https://openreview.net/forum?id=QSGanMEcUV)
+- [x] [[Squidiff: predicting cellular development and responses to perturbations using a  diffusion model]](https://www.nature.com/articles/s41592-025-02877-y)
+
+- [ ] Latent Causal Diffusions for Single-Cell Perturbation Modeling。https://arxiv.org/pdf/2601.15341
+
+## Week 4
+Leverage PINN to model the continuity equation of cellular population dynamics.
+- [x] [[Pseudodynamics+]](https://www.biorxiv.org/content/10.64898/2025.11.30.691399v1) [[Project Page]](https://github.com/Gottgens-lab/pseudodynamics_plus)
+
+
+      
+
 
 
 ## Other Works
-- [x] [[Generative modeling of single-cell time series with PRESCIENT enables prediction of cell trajectories with interventions]](https://www.nature.com/articles/s41467-021-23518-w)
 - [x] [[Inferring population dynamics from single-cell RNA-sequencing time series data]](www.nature.com/articles/s41587-019-0088-0)
 - [x] [[Dissecting transition cells from single-cell transcriptome data through multiscale stochastic dynamics]](https://www.nature.com/articles/s41467-021-25548-w)
-- [x] [[Learning single-cell perturbation responses using neural optimal transport]](https://www.nature.com/articles/s41592-023-01969-x)
 - [x] [[Deep generative modeling of transcriptional dynamics for RNA velocity analysis in single cells]](https://www.nature.com/articles/s41592-023-01994-w)
 - [x] [[Learning Geometric Models for Developmental Dynamics]](https://journals.aps.org/prx/abstract/10.1103/8vpj-bj7d)
 - [x] [[Spatial transition tensor of single cells]](https://www.nature.com/articles/s41592-024-02266-x)
