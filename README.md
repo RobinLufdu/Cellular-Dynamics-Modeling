@@ -100,6 +100,13 @@ Other Works based on SDEs.
 - [x] [[PhyloVelo enhances transcriptomic velocity field mapping using monotonically expressed genes]](https://www.nature.com/articles/s41587-023-01887-5)
 - [x] [[Multivariate stochastic modeling for transcriptional dynamics with cell-specific latent time using SDEvelo]](https://www.nature.com/articles/s41467-024-55146-5.pdf)
 
+
+# New semester
+
+## Week 1
+- [x] [[CellStream: Dynamical Optimal Transport Informed Embeddings for Reconstructing Cellular Trajectories from Snapshots Data]](https://arxiv.org/abs/2511.13786)  [[Project page]](https://github.com/PQ-Zhang/CellStream)
+
+
 ## Other Works
 - [x] [[Generative modeling of single-cell time series with PRESCIENT enables prediction of cell trajectories with interventions]](https://www.nature.com/articles/s41467-021-23518-w)
 - [x] [[Inferring population dynamics from single-cell RNA-sequencing time series data]](www.nature.com/articles/s41587-019-0088-0)
