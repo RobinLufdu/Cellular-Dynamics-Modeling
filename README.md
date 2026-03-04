@@ -95,55 +95,93 @@ Methods for modeling cell fate decision probabilities.
 - [x] [[CellRank for directed single-cell fate mapping]](https://www.nature.com/articles/s41592-021-01346-6)
 - [x] [[CellRank 2: unified fate mapping in multiview single-cell data]](https://www.nature.com/articles/s41592-024-02303-9)
 
-## Week 10
-Other Works based on SDEs.
-- [x] [[PhyloVelo enhances transcriptomic velocity field mapping using monotonically expressed genes]](https://www.nature.com/articles/s41587-023-01887-5)
-- [x] [[Multivariate stochastic modeling for transcriptional dynamics with cell-specific latent time using SDEvelo]](https://www.nature.com/articles/s41467-024-55146-5.pdf)
+
 
 
 # New semester
 
 ## Week 1
-Learning single cell dynamics in the latent space
-- [x] [[CellStream: Dynamical Optimal Transport Informed Embeddings for Reconstructing Cellular Trajectories from Snapshots Data]](https://arxiv.org/abs/2511.13786)  [[Project page]](https://github.com/PQ-Zhang/CellStream)
-- [x] [[MIOFlow]](https://arxiv.org/pdf/2206.14928)
-- [x] [[DeepVelo]](https://www.science.org/doi/10.1126/sciadv.abq3745) [[Project page]](https://github.com/bowang-lab/DeepVelo)
+Deepvelo models for learning single cell dynamics in the latent space.
+- [x] [[DeepVelo: Single-cell transcriptomic deep velocity field learning with neural ordinary differential equations]](https://www.science.org/doi/10.1126/sciadv.abq3745)
+- [x] [[DeepVelo: deep learning extends RNA velocity to multi-lineage systems with cell-specific kinetics]](https://link.springer.com/article/10.1186/s13059-023-03148-9)  [[Project page]](https://github.com/bowang-lab/DeepVelo)
 ### Related Works
 - [x] [[VeloViz: RNA velocity-informed embeddings for visualizing cellular trajectories]](https://academic.oup.com/bioinformatics/article/38/2/391/6368063)
 
+
 ## Week 2
-Learning single cell responses under perturbation.
-
-Interpretation, extrapolation and perturbation of single cells
-
-- [x] [[Generative modeling of single-cell time series with PRESCIENT enables prediction of cell trajectories with interventions]](https://www.nature.com/articles/s41467-021-23518-w)
-- [x] [[Learning single-cell perturbation responses using neural optimal transport]](https://www.nature.com/articles/s41592-023-01969-x)
+Learning single cell dynamics in the latent space.
 - [x] [[MIOFlow]](https://arxiv.org/pdf/2206.14928)
-- [x] [[MIOFlow]](https://arxiv.org/pdf/2206.14928)
+- [x] [[CellStream: Dynamical Optimal Transport Informed Embeddings for Reconstructing Cellular Trajectories from Snapshots Data]](https://arxiv.org/abs/2511.13786)  [[Project page]](https://github.com/PQ-Zhang/CellStream)
+
 
 ## Week 3
 Learning single cell responses under perturbation.
+
+**Review Work** [[Interpretation, extrapolation and perturbation of single cells]](https://www.nature.com/articles/s41576-025-00920-4)
+
+- [x] [[Generative modeling of single-cell time series with PRESCIENT enables prediction of cell trajectories with interventions]](https://www.nature.com/articles/s41467-021-23518-w)
+- [x] [[Learning single-cell perturbation responses using neural optimal transport]](https://www.nature.com/articles/s41592-023-01969-x)
+
+
+## Week 4
+Other velocity models.
+- [x] [[TFvelo: gene regulation inspired RNA velocity estimation]](https://www.nature.com/articles/s41467-024-45661-w?fromPaywallRec=false)
+- [x] [[PhyloVelo enhances transcriptomic velocity field mapping using monotonically expressed genes]](https://www.nature.com/articles/s41587-023-01887-5)
+- [x] [[Multivariate stochastic modeling for transcriptional dynamics with cell-specific latent time using SDEvelo]](https://www.nature.com/articles/s41467-024-55146-5.pdf)
+
+### Related Reference
+- [x] [[UniTVelo: temporally unified RNA velocity reinforces single-cell trajectory inference]](https://www.nature.com/articles/s41467-022-34188-7)
+- [x] [[Dynamo: Mapping Transcriptomic Vector Fields of Single Cells]](https://www.sciencedirect.com/science/article/pii/S0092867421015774) 
+- [x] [[A relay velocity model infers cell-dependent RNA velocity]](https://www.nature.com/articles/s41587-023-01728-5.pdf)
+- [x] [[Cell2fate infers RNA velocity modules to improve cell fate prediction]](https://www.nature.com/articles/s41592-025-02608-3)
+- [x] [[Deep generative modeling of transcriptional dynamics for RNA velocity analysis in single cells]](https://www.nature.com/articles/s41592-023-01994-w)
+- [x] [[Dissection and integration of bursty transcriptional dynamics for complex systems]](https://www.pnas.org/doi/10.1073/pnas.2306901121) 
+
+
+## Week 5, 6
+Learning single cell responses under perturbation, continuation.
 
 - [x] [[Doloris]](https://openreview.net/forum?id=rvpDHfoTd2)
 - [x] [[MixFlow]](https://arxiv.org/html/2601.11827v2)
 - [x] [[scDFM: Distributional Flow Matching Model for Robust Single-Cell Perturbation Prediction]](https://openreview.net/forum?id=QSGanMEcUV)
 - [x] [[Squidiff: predicting cellular development and responses to perturbations using a  diffusion model]](https://www.nature.com/articles/s41592-025-02877-y)
+- [x] [[Latent Causal Diffusions for Single-Cell Perturbation Modeling]](https://arxiv.org/pdf/2601.15341)
 
-- [ ] Latent Causal Diffusions for Single-Cell Perturbation Modeling。https://arxiv.org/pdf/2601.15341
 
-## Week 4
+## Week 7
+Non-Markovian gene expression model.
+- [x] [[Neural network aided approximation and parameter inference of non-Markovian models of gene expression]](https://www.nature.com/articles/s41467-021-22919-1) 
+
+
+## Week 8
 Leverage PINN to model the continuity equation of cellular population dynamics.
 - [x] [[Pseudodynamics+]](https://www.biorxiv.org/content/10.64898/2025.11.30.691399v1) [[Project Page]](https://github.com/Gottgens-lab/pseudodynamics_plus)
 
 
-      
+## Week 9
+Simulation-free learning of single cell dynamics with growth via flow matching (WFR-FM).
+
+- [x] [[WFR-FM: Simulation-Free Dynamic Unbalanced Optimal Transport]](https://openreview.net/forum?id=1nqu7bK1mm)
+- [x] [[WFR-MFM: One-Step Inference for Dynamic Unbalanced Optimal Transport]](https://arxiv.org/pdf/2601.20606)
+
+
+## Week 10
+Modeling cell fate differentiation via branching flow models.
+
+- [x] [[Branching Flows: Discrete, Continuous, and Manifold Flow Matching with Splits and Deletions]](https://arxiv.org/pdf/2511.09465)
+- [x] [[Branched Schrödinger Bridge Matching]](https://arxiv.org/pdf/2506.09007)
+
+## Week 11
+- [x] [[PHLOWER leverages single-cell multimodal data to infer complex, multi-branching cell differentiation trajectories]](https://www.nature.com/articles/s41592-025-02870-5) [[Project Page]](https://github.com/CostaLab/phlower)
+
+## Week 12
+- [x] [[Temporal tissue dynamics from a spatial snapshot]](https://www.nature.com/articles/s41586-025-09876-1)
 
 
 
 ## Other Works
 - [x] [[Inferring population dynamics from single-cell RNA-sequencing time series data]](www.nature.com/articles/s41587-019-0088-0)
 - [x] [[Dissecting transition cells from single-cell transcriptome data through multiscale stochastic dynamics]](https://www.nature.com/articles/s41467-021-25548-w)
-- [x] [[Deep generative modeling of transcriptional dynamics for RNA velocity analysis in single cells]](https://www.nature.com/articles/s41592-023-01994-w)
 - [x] [[Learning Geometric Models for Developmental Dynamics]](https://journals.aps.org/prx/abstract/10.1103/8vpj-bj7d)
 - [x] [[Spatial transition tensor of single cells]](https://www.nature.com/articles/s41592-024-02266-x)
 - [x] [[Learning stochastic processes with intrinsic noise from cross-sectional biological data]](https://www.pnas.org/doi/10.1073/pnas.2420621122)
